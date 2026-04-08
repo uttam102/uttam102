@@ -12,7 +12,7 @@
 
 <h1 align="center">Hi there, I'm Uttam Kalsariya! 👋</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+%2B+Data+Science+Enthusiast;Flutter+App+Architect;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Web+%26+Backend+Developer;Flutter+App+Architect;Python+%2B+Data+Science;Building+Intelligent+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
