@@ -39,7 +39,7 @@
 
 **🧠 AI & Machine Learning Arsenal**
 <p align="center">
-  <img src="https://cdn.simpleicons.org/openai/white" width="48" height="48" alt="OpenAI" /> &nbsp;
+  <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="48" height="48" alt="OpenAI" /> &nbsp;
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" /> &nbsp;
   <img src="https://cdn.simpleicons.org/langchain/white" width="48" height="48" alt="LangChain" /> &nbsp;
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48" height="48" alt="TensorFlow" /> &nbsp;
