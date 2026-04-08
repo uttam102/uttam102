@@ -61,7 +61,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&perline=10" alt="Tools" style="vertical-align: middle;" />
   </a>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/uttam102/uttam102/main/assets/antigravity-logo.png" alt="Antigravity" width="48" height="48" style="border-radius: 10px; object-fit: cover; vertical-align: middle;" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQG5wmEaqHfmDg/company-logo_200_200/B56ZqUSJh0I4AM-/0/1763424377586/google_antigravity_logo?e=1777507200&v=beta&t=tMLAaRPDy3iJvIKPu9nAVYHCisFQnaFdofu2jfY0xwI" alt="Antigravity" width="48" height="48" style="border-radius: 12px; object-fit: cover; vertical-align: middle;" /> &nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons:codeium.svg?color=white" alt="Windsurf" width="48" height="48" style="vertical-align: middle;" /> &nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons:cursor.svg?color=white" alt="Cursor" width="48" height="48" style="vertical-align: middle;" /> &nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons:githubcopilot.svg?color=white" alt="GitHub Copilot" width="48" height="48" style="vertical-align: middle;" />
