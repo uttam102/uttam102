@@ -62,10 +62,10 @@
     <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&perline=10" alt="Tools" />
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/Antigravity-1A1A2E?style=flat-square&logo=google&logoColor=white" alt="Antigravity" /> &nbsp;
-  <img src="https://img.shields.io/badge/Windsurf-2A2A72?style=flat-square&logo=windicss&logoColor=white" alt="Windsurf" /> &nbsp;
-  <img src="https://img.shields.io/badge/Cursor-1C1C1E?style=flat-square&logo=windowsterminal&logoColor=white" alt="Cursor" /> &nbsp;
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://api.iconify.design/logos:google-gemini.svg" alt="Antigravity" width="48" height="48" /> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:codeium.svg?color=2A2A72" alt="Windsurf" width="48" height="48" /> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:cursor.svg?color=white" alt="Cursor" width="48" height="48" /> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:github-copilot.svg" alt="GitHub Copilot" width="48" height="48" />
 </p>
 
 ---
