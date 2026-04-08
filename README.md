@@ -1,6 +1,4 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Uttam%20Kalsariya&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=51&descAlign=62" width="100%"/>
-
+<h1 align="center">Hi there, I'm Uttam Kalsariya! 👋</h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+%2B+Data+Science+Enthusiast;Flutter+App+Architect;Building+Intelligent+Systems" alt="Typing SVG" />
 </div>
@@ -57,8 +55,8 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uttam102&show_icons=true&theme=nord&count_private=true&hide_border=true&title_color=36BCF7&bg_color=0D1117" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam102&layout=compact&theme=nord&hide_border=true&title_color=36BCF7&bg_color=0D1117" width="38%" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uttam102&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam102&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" width="38%" alt="Top Langs" />
 </div>
 
 <br>
@@ -69,4 +67,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Stay+Inconsistent,+Stay+Curious" alt="Typing SVG Footer" />
+</p>
