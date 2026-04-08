@@ -39,14 +39,14 @@
 
 **🧠 AI & Machine Learning Arsenal**
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://cdn.simpleicons.org/openai/white" width="48" height="48" alt="OpenAI" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/white" width="48" height="48" alt="LangChain" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48" height="48" alt="TensorFlow" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" height="48" alt="PyTorch" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Scikit-Learn" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/white" width="48" height="48" alt="Pandas" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" />
 </p>
 
 **💻 Languages & Frameworks**
