@@ -177,12 +177,22 @@ Clean portfolio showcasing projects, resume, and skills — built with vanilla w
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=uttam102&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/uttam102)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uttam102&theme=react-dark&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true)](https://github.com/uttam102)
 
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=2000&color=00D9FF&center=true&vCenter=true&width=500&lines=Stay+Inconsistent%2C+Stay+Curious+%E2%9A%A1;Open+to+collabs+%26+interesting+builds+%F0%9F%A4%9D" alt="Footer" />
+
+<br/>
+
+*If you find my work useful, consider leaving a ⭐ — it keeps the curiosity alive!*
+
+</div>
