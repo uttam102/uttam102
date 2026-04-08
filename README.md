@@ -50,7 +50,7 @@
 | **[Day To Day](https://daytoday-app.vercel.app/)** | A productivity and daily tracker application (Currently in Active Development). | Flutter / Web |
 | **[All in One Calculator Pro](https://indusapp.store/g7m6hddn)** | A comprehensive and verified calculator app published on the Indus Appstore. | Flutter, Dart |
 | **[JobPortal-AI](https://github.com/uttam102/JobPortal-AI)** | AI-powered recommendation system & interactive chatbot matching candidate skillsets. | Python, Flask, NLP |
-| **[Portfolio Website](https://uttamkalsariya.github.io)** | Personal portfolio showcasing my resume, skills, and projects. | HTML, CSS, JS |
+| **[Portfolio Website](https://uttam102.github.io/uttamkalsariya.github.io/)** | Personal portfolio showcasing my resume, skills, and projects. | HTML, CSS, JS |
 
 ---
 
