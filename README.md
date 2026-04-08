@@ -193,6 +193,4 @@ Clean portfolio showcasing projects, resume, and skills — built with vanilla w
 
 <br/>
 
-*If you find my work useful, consider leaving a ⭐ — it keeps the curiosity alive!*
-
 </div>
