@@ -27,11 +27,11 @@
 
 ### 👨‍💻 About Me
 
-*   🎓 **Computer Science** Professional passionate about building scalable backends and beautiful frontends.
-*   🔭 I’m currently working on **[JobPortal-AI](https://github.com/uttam102/JobPortal-AI)**, an intelligent career platform.
-*   🌱 I’m currently diving deep into **Advanced Machine Learning** and **NLP** techniques.
-*   💬 Ask me about **Python, Flutter, API Design, and AI Integration**.
-*   ⚡ Fun fact: *Stay Inconsistent, Stay Curious.*
+    🎓 **Computer Science** Professional passionate about building scalable backends and beautiful frontends.
+    🔭 I’m currently working on **[JobPortal-AI](https://github.com/uttam102/JobPortal-AI)**, an intelligent career platform.
+    🌱 I’m currently diving deep into **Advanced Machine Learning** and **NLP** techniques.
+    💬 Ask me about **Python, Flutter, API Design, and AI Integration**.
+    ⚡ Fun fact: *Stay Inconsistent, Stay Curious.*
 
 ---
 
@@ -55,7 +55,7 @@
 
 ---
 
-### 🚀 Featured Projects
+<!-- ### 🚀 Featured Projects
 
 | 🤖 Project | 📝 Description | ⚙️ Technologies |
 | :--- | :--- | :--- |
@@ -64,7 +64,66 @@
 | **[JobPortal-AI](https://github.com/uttam102/JobPortal-AI)** | AI-powered recommendation system & interactive chatbot matching candidate skillsets. | Python, Flask, NLP |
 | **[Portfolio Website](https://uttam102.github.io/uttamkalsariya.github.io/)** | Personal portfolio showcasing my resume, skills, and projects. | HTML, CSS, JS |
 
+--- -->
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 [Day To Day](https://daytoday-app.vercel.app/)
+> *Active Development*
+
+A full-featured personal finance & productivity tracker. Tracks income/expenses, budgets, subscriptions with cloud sync, biometric auth, AI insights, and PDF reports.
+
+**Stack:** `Flutter` `Dart` `Supabase` `SQLite` `Provider`
+
+[![DayToDay](https://img.shields.io/badge/Live-00D9FF?style=flat-square&logo=vercel&logoColor=black)](https://daytoday-app.vercel.app/)
+
+</td>
+<td width="50%">
+
+### 🤖 [JobPortal-AI](https://github.com/uttam102/JobPortal-AI)
+> *AI-Powered Career Platform*
+
+Intelligent job recommendation engine with NLP-based skill matching and an interactive chatbot that connects candidates to roles based on their skillsets.
+
+**Stack:** `Python` `Flask` `NLP` `ML` `SQLite`
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/uttam102/JobPortal-AI)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧮 [All in One Calculator Pro](https://indusapp.store/g7m6hddn)
+> *Published on Indus Appstore*
+
+A comprehensive verified calculator app covering scientific, financial, unit conversion, and more — polished, production-published Flutter app.
+
+**Stack:** `Flutter` `Dart`
+
+[![Indus Store](https://img.shields.io/badge/Indus%20Appstore-FF6B00?style=flat-square&logo=android&logoColor=white)](https://indusapp.store/g7m6hddn)
+
+</td>
+<td width="50%">
+
+### 🌐 [Portfolio Website](https://uttam102.github.io/uttamkalsariya.github.io/)
+> *Personal Brand*
+
+Clean portfolio showcasing projects, resume, and skills — built with vanilla web tech, fully responsive.
+
+**Stack:** `HTML` `CSS` `JavaScript`
+
+[![Live](https://img.shields.io/badge/Live-00D9FF?style=flat-square&logo=githubpages&logoColor=black)](https://uttam102.github.io/uttamkalsariya.github.io/)
+
+</td>
+</tr>
+</table>
+
 ---
+
 
 ### 📈 GitHub Analytics
 
