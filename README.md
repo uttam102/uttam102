@@ -57,8 +57,8 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uttam102&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam102&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" width="38%" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uttam102&show_icons=true&theme=tokyonight" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam102&layout=compact&theme=tokyonight" width="38%" alt="Top Langs" />
 </div>
 
 <br>
@@ -70,5 +70,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Stay+Inconsistent,+Stay+Curious" alt="Typing SVG Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Stay+Inconsistent%2C+Stay+Curious" alt="Typing SVG Footer" />
 </p>
