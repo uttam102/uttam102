@@ -27,11 +27,11 @@
 
 ### 👨‍💻 About Me
 
-    🎓 **Computer Science** Professional passionate about building scalable backends and beautiful frontends.
-    🔭 I’m currently working on **[JobPortal-AI](https://github.com/uttam102/JobPortal-AI)**, an intelligent career platform.
-    🌱 I’m currently diving deep into **Advanced Machine Learning** and **NLP** techniques.
-    💬 Ask me about **Python, Flutter, API Design, and AI Integration**.
-    ⚡ Fun fact: *Stay Inconsistent, Stay Curious.*
+> 🎓 **Computer Science** Professional passionate about building scalable backends and beautiful frontends.<br>
+> 🔭 I’m currently working on **[JobPortal-AI](https://github.com/uttam102/JobPortal-AI)**, an intelligent career platform.<br>
+> 🌱 I’m currently diving deep into **Advanced Machine Learning** and **NLP** techniques.<br>
+> 💬 Ask me about **Python, Flutter, API Design, and AI Integration**.<br>
+> ⚡ Fun fact: *Stay Inconsistent, Stay Curious.*
 
 ---
 
