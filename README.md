@@ -39,7 +39,18 @@
 
 **🧠 AI & Machine Learning Arsenal**
 <div align="center">
-<img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="48" height="48" alt="OpenAI" /><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" /><img src="https://cdn.simpleicons.org/langchain/white" width="48" height="48" alt="LangChain" /><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48" height="48" alt="TensorFlow" /><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" height="48" alt="PyTorch" /><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Scikit-Learn" /><img src="https://cdn.simpleicons.org/pandas/white" width="48" height="48" alt="Pandas" /><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" />
+  <table>
+    <tr>
+      <td><img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="48" height="48" alt="OpenAI" /></td>
+      <td><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" /></td>
+      <td><img src="https://cdn.simpleicons.org/langchain/white" width="48" height="48" alt="LangChain" /></td>
+      <td><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48" height="48" alt="TensorFlow" /></td>
+      <td><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" height="48" alt="PyTorch" /></td>
+      <td><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Scikit-Learn" /></td>
+      <td><img src="https://cdn.simpleicons.org/pandas/white" width="48" height="48" alt="Pandas" /></td>
+      <td><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" /></td>
+    </tr>
+  </table>
 </div>
 
 **💻 Languages & Frameworks**
@@ -51,7 +62,15 @@
 
 **⚙️ Developer Tools & AI Assistance**
 <div align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&perline=10" alt="Tools" style="vertical-align: middle;" /></a><img src="https://media.licdn.com/dms/image/v2/D560BAQG5wmEaqHfmDg/company-logo_200_200/B56ZqUSJh0I4AM-/0/1763424377586/google_antigravity_logo?e=1777507200&v=beta&t=tMLAaRPDy3iJvIKPu9nAVYHCisFQnaFdofu2jfY0xwI" alt="Antigravity" width="48" height="48" style="border-radius: 12px; object-fit: cover; vertical-align: middle; margin-left: 5px;" /><img src="https://api.iconify.design/simple-icons:codeium.svg?color=white" alt="Windsurf" width="48" height="48" style="vertical-align: middle; margin-left: 5px;" /><img src="https://api.iconify.design/simple-icons:cursor.svg?color=white" alt="Cursor" width="48" height="48" style="vertical-align: middle; margin-left: 5px;" /><img src="https://api.iconify.design/simple-icons:githubcopilot.svg?color=white" alt="GitHub Copilot" width="48" height="48" style="vertical-align: middle; margin-left: 5px;" />
+  <table>
+    <tr>
+      <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" alt="Tools" /></a></td>
+      <td><img src="https://media.licdn.com/dms/image/v2/D560BAQG5wmEaqHfmDg/company-logo_200_200/B56ZqUSJh0I4AM-/0/1763424377586/google_antigravity_logo?e=1777507200&v=beta&t=tMLAaRPDy3iJvIKPu9nAVYHCisFQnaFdofu2jfY0xwI" alt="Antigravity" width="48" height="48" style="border-radius: 12px; object-fit: cover;" /></td>
+      <td><img src="https://api.iconify.design/simple-icons:codeium.svg?color=white" alt="Windsurf" width="48" height="48" /></td>
+      <td><img src="https://api.iconify.design/simple-icons:cursor.svg?color=white" alt="Cursor" width="48" height="48" /></td>
+      <td><img src="https://api.iconify.design/simple-icons:githubcopilot.svg?color=white" alt="GitHub Copilot" width="48" height="48" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
