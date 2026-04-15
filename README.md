@@ -34,13 +34,13 @@
 > ⚡ Fun fact: *Stay Inconsistent, Stay Curious.*
 
 ---
-
+<!-- 
 ### 🛠️ Tech Stack & Tools
 
 **🧠 AI & Machine Learning Arsenal**
 <p align="center">
-  <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="48" height="48" alt="OpenAI" /> &nbsp; <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" /> &nbsp; <img src="https://cdn.simpleicons.org/langchain/white" width="48" height="48" alt="LangChain" /> &nbsp; <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48" height="48" alt="TensorFlow" /> &nbsp; <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" height="48" alt="PyTorch" /> &nbsp; <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Scikit-Learn" /> &nbsp; <img src="https://cdn.simpleicons.org/pandas/white" width="48" height="48" alt="Pandas" /> &nbsp; <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" />
-</p>
+<img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="48" height="48" alt="OpenAI" /> &nbsp; <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" /> &nbsp; <img src="https://cdn.simpleicons.org/langchain/white" width="48" height="48" alt="LangChain" /> &nbsp; <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48" height="48" alt="TensorFlow" /> &nbsp; <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" height="48" alt="PyTorch" /> &nbsp; <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Scikit-Learn" /> &nbsp; <img src="https://cdn.simpleicons.org/pandas/white" width="48" height="48" alt="Pandas" /> &nbsp; <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" />
+</p> -->
 
 **💻 Languages & Frameworks**
 <p align="center">
