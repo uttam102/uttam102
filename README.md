@@ -38,16 +38,20 @@
 ### 🛠️ Tech Stack & Tools
 
 **🧠 AI & Machine Learning Arsenal**
-<p align="center">
-  <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="48" height="48" alt="OpenAI" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/white" width="48" height="48" alt="LangChain" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48" height="48" alt="TensorFlow" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" height="48" alt="PyTorch" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Scikit-Learn" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/white" width="48" height="48" alt="Pandas" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="48" height="48" alt="OpenAI" /></td>
+      <td><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" /></td>
+      <td><img src="https://cdn.simpleicons.org/langchain/white" width="48" height="48" alt="LangChain" /></td>
+      <td><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48" height="48" alt="TensorFlow" /></td>
+      <td><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" height="48" alt="PyTorch" /></td>
+      <td><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Scikit-Learn" /></td>
+      <td><img src="https://cdn.simpleicons.org/pandas/white" width="48" height="48" alt="Pandas" /></td>
+      <td><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" /></td>
+    </tr>
+  </table>
+</div>
 
 **💻 Languages & Frameworks**
 <p align="center">
@@ -57,15 +61,17 @@
 </p>
 
 **⚙️ Developer Tools & AI Assistance**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&perline=10" alt="Tools" style="vertical-align: middle;" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQG5wmEaqHfmDg/company-logo_200_200/B56ZqUSJh0I4AM-/0/1763424377586/google_antigravity_logo?e=1777507200&v=beta&t=tMLAaRPDy3iJvIKPu9nAVYHCisFQnaFdofu2jfY0xwI" alt="Antigravity" width="48" height="48" style="border-radius: 12px; object-fit: cover; vertical-align: middle;" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:codeium.svg?color=white" alt="Windsurf" width="48" height="48" style="vertical-align: middle;" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:cursor.svg?color=white" alt="Cursor" width="48" height="48" style="vertical-align: middle;" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:githubcopilot.svg?color=white" alt="GitHub Copilot" width="48" height="48" style="vertical-align: middle;" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" alt="Tools" /></a></td>
+      <td><img src="https://media.licdn.com/dms/image/v2/D560BAQG5wmEaqHfmDg/company-logo_200_200/B56ZqUSJh0I4AM-/0/1763424377586/google_antigravity_logo?e=1777507200&v=beta&t=tMLAaRPDy3iJvIKPu9nAVYHCisFQnaFdofu2jfY0xwI" alt="Antigravity" width="48" height="48" style="border-radius: 12px; object-fit: cover;" /></td>
+      <td><img src="https://api.iconify.design/simple-icons:codeium.svg?color=white" alt="Windsurf" width="48" height="48" /></td>
+      <td><img src="https://api.iconify.design/simple-icons:cursor.svg?color=white" alt="Cursor" width="48" height="48" /></td>
+      <td><img src="https://api.iconify.design/simple-icons:githubcopilot.svg?color=white" alt="GitHub Copilot" width="48" height="48" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -76,7 +82,7 @@
 | **[Day To Day](https://daytoday-app.vercel.app/)** | A productivity and daily tracker application (Currently in Active Development). | Flutter / Web |
 | **[All in One Calculator Pro](https://indusapp.store/g7m6hddn)** | A comprehensive and verified calculator app published on the Indus Appstore. | Flutter, Dart |
 | **[JobPortal-AI](https://github.com/uttam102/JobPortal-AI)** | AI-powered recommendation system & interactive chatbot matching candidate skillsets. | Python, Flask, NLP |
-| **[Portfolio Website](https://uttam102.github.io/uttamkalsariya.github.io/)** | Personal portfolio showcasing my resume, skills, and projects. | HTML, CSS, JS |
+| **[Portfolio Website](https://uttam105.github.io/uttamkalsariya.github.io/)** | Personal portfolio showcasing my resume, skills, and projects. | HTML, CSS, JS |
 
 --- -->
 ## 🚀 Featured Projects
