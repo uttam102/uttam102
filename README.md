@@ -34,7 +34,7 @@
 > 💬 Ask me about **Python, Flutter, API Design, and AI Integration**.<br>
 > ⚡ Fun fact: *Stay Inconsistent, Stay Curious.*
 
----
+<!-- ---
 
 ### 🛠️ Tech Stack & Tools
 
@@ -42,7 +42,7 @@
 
 **🧠 AI & Machine Learning Arsenal**
 
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; margin: 20px 0; box-shadow: 0 10px 40px rgba(102, 126, 234, 0.3);">
+<div align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; padding: 30px; margin: 20px 0; box-shadow: 0 10px 40px rgba(240, 147, 251, 0.3);">
 <p align="center" style="margin: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="60" height="60" alt="OpenAI" style="background: rgba(255,255,255,0.2); border-radius: 15px; padding: 12px; backdrop-filter: blur(10px); transition: transform 0.3s ease;" />
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="60" height="60" alt="Hugging Face" style="background: rgba(255,255,255,0.2); border-radius: 15px; padding: 12px; backdrop-filter: blur(10px); transition: transform 0.3s ease;" />
@@ -74,7 +74,7 @@
 
 **⚙️ Developer Tools & AI Assistance**
 
-<div align="center" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; padding: 30px; margin: 20px 0; box-shadow: 0 10px 40px rgba(79, 172, 254, 0.3);">
+<div align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; padding: 30px; margin: 20px 0; box-shadow: 0 10px 40px rgba(240, 147, 251, 0.3);">
 <p align="center" style="margin: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://cdn.simpleicons.org/git/F05032" width="60" height="60" alt="Git" style="background: rgba(255,255,255,0.2); border-radius: 15px; padding: 12px; backdrop-filter: blur(10px); transition: transform 0.3s ease;" />
   <img src="https://cdn.simpleicons.org/github/181717" width="60" height="60" alt="GitHub" style="background: rgba(255,255,255,0.2); border-radius: 15px; padding: 12px; backdrop-filter: blur(10px); transition: transform 0.3s ease;" />
@@ -90,7 +90,7 @@
 
 </div>
 
----
+--- -->
 
 <!-- ### 🚀 Featured Projects
 
