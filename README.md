@@ -42,15 +42,15 @@
 
 **🧠 AI & Machine Learning Arsenal**
 
-<p align="center">
-  <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="48" height="48" alt="OpenAI" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/white" width="48" height="48" alt="LangChain" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48" height="48" alt="TensorFlow" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" height="48" alt="PyTorch" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Scikit-Learn" style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/white" width="48" height="48" alt="Pandas" style="background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" style="background: linear-gradient(135deg, #cfd9df 0%, #e2ebf0 100%); border-radius: 12px; padding: 8px;" />
+<p align="center" style="margin: 20px 0;">
+  <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="48" height="48" alt="OpenAI" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; padding: 8px; margin: 4px; vertical-align: middle;" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px; padding: 8px; margin: 4px; vertical-align: middle;" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/white" width="48" height="48" alt="LangChain" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 12px; padding: 8px; margin: 4px; vertical-align: middle;" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48" height="48" alt="TensorFlow" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 12px; padding: 8px; margin: 4px; vertical-align: middle;" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" height="48" alt="PyTorch" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 12px; padding: 8px; margin: 4px; vertical-align: middle;" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Scikit-Learn" style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 12px; padding: 8px; margin: 4px; vertical-align: middle;" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/white" width="48" height="48" alt="Pandas" style="background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%); border-radius: 12px; padding: 8px; margin: 4px; vertical-align: middle;" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" style="background: linear-gradient(135deg, #cfd9df 0%, #e2ebf0 100%); border-radius: 12px; padding: 8px; margin: 4px; vertical-align: middle;" />
 </p>
 
 **💻 Languages & Frameworks**
@@ -70,16 +70,16 @@
 
 **⚙️ Developer Tools & AI Assistance**
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="48" height="48" alt="VS Code" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker" style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" alt="Postman" style="background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQG5wmEaqHfmDg/company-logo_200_200/B56ZqUSJh0I4AM-/0/1763424377586/google_antigravity_logo?e=1777507200&v=beta&t=tMLAaRPDy3iJvIKPu9nAVYHCisFQnaFdofu2jfY0xwI" alt="Antigravity" width="48" height="48" style="background: linear-gradient(135deg, #cfd9df 0%, #e2ebf0 100%); border-radius: 12px; padding: 8px; object-fit: cover;" /> &nbsp;
-  <img src="https://api.iconify.design/simple-icons:codeium.svg?color=white" alt="Windsurf" width="48" height="48" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://api.iconify.design/simple-icons:cursor.svg?color=white" alt="Cursor" width="48" height="48" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://api.iconify.design/simple-icons:githubcopilot.svg?color=white" alt="GitHub Copilot" width="48" height="48" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px; padding: 8px;" />
+<p align="center" style="margin: 20px 0;">
+  <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px; padding: 8px; margin: 4px; vertical-align: middle;" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 12px; padding: 8px; margin: 4px; vertical-align: middle;" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="48" height="48" alt="VS Code" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 12px; padding: 8px; margin: 4px; vertical-align: middle;" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker" style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 12px; padding: 8px; margin: 4px; vertical-align: middle;" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" alt="Postman" style="background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%); border-radius: 12px; padding: 8px; margin: 4px; vertical-align: middle;" /> &nbsp;
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQG5wmEaqHfmDg/company-logo_200_200/B56ZqUSJh0I4AM-/0/1763424377586/google_antigravity_logo?e=1777507200&v=beta&t=tMLAaRPDy3iJvIKPu9nAVYHCisFQnaFdofu2jfY0xwI" alt="Antigravity" width="48" height="48" style="background: linear-gradient(135deg, #cfd9df 0%, #e2ebf0 100%); border-radius: 12px; padding: 8px; margin: 4px; vertical-align: middle; object-fit: cover;" /> &nbsp;
+  <img src="https://api.iconify.design/simple-icons:codeium.svg?color=white" alt="Windsurf" width="48" height="48" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; padding: 8px; margin: 4px; vertical-align: middle;" /> &nbsp;
+  <img src="https://api.iconify.design/simple-icons:cursor.svg?color=white" alt="Cursor" width="48" height="48" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 12px; padding: 8px; margin: 4px; vertical-align: middle;" /> &nbsp;
+  <img src="https://api.iconify.design/simple-icons:githubcopilot.svg?color=white" alt="GitHub Copilot" width="48" height="48" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px; padding: 8px; margin: 4px; vertical-align: middle;" />
 </p>
 
 </div>
