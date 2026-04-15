@@ -40,57 +40,47 @@
 
 <div align="center">
 
-<div align="center">
 
-**🧠 AI & Machine Learning Arsenal**
 
-<div align="center" style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); border-radius: 15px; padding: 25px; margin: 15px 0; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
-<p align="center" style="margin: 0;">
-  <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="52" height="52" alt="OpenAI" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 10px; margin: 6px; vertical-align: middle; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: transform 0.3s ease;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="52" height="52" alt="Hugging Face" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 10px; margin: 6px; vertical-align: middle; box-shadow: 0 4px 15px rgba(240, 147, 251, 0.4); transition: transform 0.3s ease;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/white" width="52" height="52" alt="LangChain" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 15px; padding: 10px; margin: 6px; vertical-align: middle; box-shadow: 0 4px 15px rgba(79, 172, 254, 0.4); transition: transform 0.3s ease;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="52" height="52" alt="TensorFlow" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 15px; padding: 10px; margin: 6px; vertical-align: middle; box-shadow: 0 4px 15px rgba(250, 112, 154, 0.4); transition: transform 0.3s ease;" /> &nbsp;
+<h4>🧠 AI & Machine Learning Arsenal</h4>
+<p align="center">
+  <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="52" height="52" alt="OpenAI" />&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="52" height="52" alt="Hugging Face" />&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/00A67E" width="52" height="52" alt="LangChain" />&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="52" height="52" alt="TensorFlow" />&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="52" height="52" alt="PyTorch" />&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="52" height="52" alt="Scikit-Learn" />&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="52" height="52" alt="Pandas" />&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="52" height="52" alt="Gemini" />
 </p>
-<p align="center" style="margin: 15px 0 0 0;">
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="52" height="52" alt="PyTorch" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 15px; padding: 10px; margin: 6px; vertical-align: middle; box-shadow: 0 4px 15px rgba(168, 237, 234, 0.4); transition: transform 0.3s ease;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="52" height="52" alt="Scikit-Learn" style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 15px; padding: 10px; margin: 6px; vertical-align: middle; box-shadow: 0 4px 15px rgba(255, 236, 210, 0.4); transition: transform 0.3s ease;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/white" width="52" height="52" alt="Pandas" style="background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%); border-radius: 15px; padding: 10px; margin: 6px; vertical-align: middle; box-shadow: 0 4px 15px rgba(161, 196, 253, 0.4); transition: transform 0.3s ease;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="52" height="52" alt="Gemini" style="background: linear-gradient(135deg, #cfd9df 0%, #e2ebf0 100%); border-radius: 15px; padding: 10px; margin: 6px; vertical-align: middle; box-shadow: 0 4px 15px rgba(207, 217, 223, 0.4); transition: transform 0.3s ease;" />
-</p>
-</div>
 
-**💻 Languages & Frameworks**
+<h4>💻 Languages & Frameworks</h4>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/dart/0175C2" width="48" height="48" alt="Dart" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="48" height="48" alt="HTML5" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="48" height="48" alt="CSS3" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/flutter/02569B" width="48" height="48" alt="Flutter" style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/flask/000000" width="48" height="48" alt="Flask" style="background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="48" height="48" alt="Bootstrap" style="background: linear-gradient(135deg, #cfd9df 0%, #e2ebf0 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; padding: 8px;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="48" height="48" alt="SQLite" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 12px; padding: 8px;" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" />&nbsp;
+  <img src="https://cdn.simpleicons.org/dart/0175C2" width="48" height="48" alt="Dart" />&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript" />&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="48" height="48" alt="HTML5" />&nbsp;
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="48" height="48" alt="CSS3" />&nbsp;
+  <img src="https://cdn.simpleicons.org/flutter/02569B" width="48" height="48" alt="Flutter" />&nbsp;
+  <img src="https://cdn.simpleicons.org/flask/000000" width="48" height="48" alt="Flask" />&nbsp;
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="48" height="48" alt="Bootstrap" />&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL" />&nbsp;
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="48" height="48" alt="SQLite" />
 </p>
 
-**⚙️ Developer Tools & AI Assistance**
-
-<div align="center" style="background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); border-radius: 15px; padding: 25px; margin: 15px 0; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
-<p align="center" style="margin: 0;">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="52" height="52" alt="Git" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 10px; margin: 6px; vertical-align: middle; box-shadow: 0 4px 15px rgba(240, 147, 251, 0.4); transition: transform 0.3s ease;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/github/181717" width="52" height="52" alt="GitHub" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 15px; padding: 10px; margin: 6px; vertical-align: middle; box-shadow: 0 4px 15px rgba(250, 112, 154, 0.4); transition: transform 0.3s ease;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="52" height="52" alt="VS Code" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 15px; padding: 10px; margin: 6px; vertical-align: middle; box-shadow: 0 4px 15px rgba(168, 237, 234, 0.4); transition: transform 0.3s ease;" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="52" height="52" alt="Docker" style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 15px; padding: 10px; margin: 6px; vertical-align: middle; box-shadow: 0 4px 15px rgba(255, 236, 210, 0.4); transition: transform 0.3s ease;" /> &nbsp;
+<h4>⚙️ Developer Tools & AI Assistance</h4>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/git/F05032" width="52" height="52" alt="Git" />&nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" width="52" height="52" alt="GitHub" />&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="52" height="52" alt="VS Code" />&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="52" height="52" alt="Docker" />&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="52" height="52" alt="Postman" />&nbsp;
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQG5wmEaqHfmDg/company-logo_200_200/B56ZqUSJh0I4AM-/0/1763424377586/google_antigravity_logo?e=1777507200&v=beta&t=tMLAaRPDy3iJvIKPu9nAVYHCisFQnaFdofu2jfY0xwI" alt="Antigravity" width="52" height="52" />&nbsp;
+  <img src="https://api.iconify.design/simple-icons:codeium.svg?color=white" alt="Windsurf" width="52" height="52" />&nbsp;
+  <img src="https://api.iconify.design/simple-icons:cursor.svg?color=white" alt="Cursor" width="52" height="52" />&nbsp;
+  <img src="https://api.iconify.design/simple-icons:githubcopilot.svg?color=white" alt="GitHub Copilot" width="52" height="52" />
 </p>
-<p align="center" style="margin: 15px 0 0 0;">
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="52" height="52" alt="Postman" style="background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%); border-radius: 15px; padding: 10px; margin: 6px; vertical-align: middle; box-shadow: 0 4px 15px rgba(161, 196, 253, 0.4); transition: transform 0.3s ease;" /> &nbsp;
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQG5wmEaqHfmDg/company-logo_200_200/B56ZqUSJh0I4AM-/0/1763424377586/google_antigravity_logo?e=1777507200&v=beta&t=tMLAaRPDy3iJvIKPu9nAVYHCisFQnaFdofu2jfY0xwI" alt="Antigravity" width="52" height="52" style="background: linear-gradient(135deg, #cfd9df 0%, #e2ebf0 100%); border-radius: 15px; padding: 10px; margin: 6px; vertical-align: middle; box-shadow: 0 4px 15px rgba(207, 217, 223, 0.4); transition: transform 0.3s ease; object-fit: cover;" /> &nbsp;
-  <img src="https://api.iconify.design/simple-icons:codeium.svg?color=white" alt="Windsurf" width="52" height="52" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 10px; margin: 6px; vertical-align: middle; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: transform 0.3s ease;" /> &nbsp;
-  <img src="https://api.iconify.design/simple-icons:cursor.svg?color=white" alt="Cursor" width="52" height="52" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 15px; padding: 10px; margin: 6px; vertical-align: middle; box-shadow: 0 4px 15px rgba(79, 172, 254, 0.4); transition: transform 0.3s ease;" /> &nbsp;
-  <img src="https://api.iconify.design/simple-icons:githubcopilot.svg?color=white" alt="GitHub Copilot" width="52" height="52" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 10px; margin: 6px; vertical-align: middle; box-shadow: 0 4px 15px rgba(240, 147, 251, 0.4); transition: transform 0.3s ease;" />
-</p>
-</div>
 
 </div>
 
