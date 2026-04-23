@@ -201,7 +201,7 @@ Clean portfolio showcasing projects, resume, and skills — built with vanilla w
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uttam102&theme=react-dark&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true)](https://github.com/uttam102)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uttam-kalsariya&theme=react-dark&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true)](https://github.com/uttam-kalsariya)
 
 </div>
 
