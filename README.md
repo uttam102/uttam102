@@ -125,7 +125,7 @@ All-in-one finance toolkit with 80+ calculators for EMI, SIP, GST, FD, SWP, PPF,
 **Stack:** `Flutter` `Dart` `HTML` `CSS` `JavaScript`
 
 [![Live](https://img.shields.io/badge/Live-00D9FF?style=flat-square&logo=vercel&logoColor=black)](https://premium-financial-calculator.vercel.app/)
-[![Indus Store](https://img.shields.io/badge/Indus%20Appstore-FF6B00?style=flat-square&logo=android&logoColor=white)](https://indusapp.store/g7m6hddn)(https://img.shields.io/badge/Live-00D9FF?style=flat-square&logo=vercel&logoColor=black)(https://premium-financial-calculator.vercel.app/)
+[![Indus Store](https://img.shields.io/badge/Indus%20Appstore-FF6B00?style=flat-square&logo=android&logoColor=white)](https://indusapp.store/g7m6hddn)
 
 </td>
 <td width="50%">
