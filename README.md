@@ -91,14 +91,14 @@
 <tr>
 <td width="50%">
 
-### 📱 [Day To Day](https://daytoday-app.vercel.app/)
+### 📱 [Day To Day](https://daytoday-new.vercel.app/)
 > *Active Development*
 
 A full-featured personal finance & productivity tracker. Tracks income/expenses, budgets, subscriptions with cloud sync, biometric auth, AI insights, and PDF reports.
 
 **Stack:** `Flutter` `Dart` `Supabase` `SQLite` `Provider`
 
-[![DayToDay](https://img.shields.io/badge/Live-00D9FF?style=flat-square&logo=vercel&logoColor=black)](https://daytoday-app.vercel.app/)
+[![DayToDay](https://img.shields.io/badge/Live-00D9FF?style=flat-square&logo=vercel&logoColor=black)](https://daytoday-new.vercel.app/)
 
 </td>
 <td width="50%">
@@ -117,14 +117,15 @@ Intelligent job recommendation engine with NLP-based skill matching and an inter
 <tr>
 <td width="50%">
 
-### 🧮 [All in One Calculator Pro](https://indusapp.store/g7m6hddn)
-> *Published on Indus Appstore*
+### 🧮 [Premium Financial Calculator](https://premium-financial-calculator.vercel.app/)
+> *80+ Professional Tools*
 
-A comprehensive verified calculator app covering scientific, financial, unit conversion, and more — polished, production-published Flutter app.
+All-in-one finance toolkit with 80+ calculators for EMI, SIP, GST, FD, SWP, PPF, and more — includes accurate reports and premium UI.
 
-**Stack:** `Flutter` `Dart`
+**Stack:** `Flutter` `Dart` `HTML` `CSS` `JavaScript`
 
-[![Indus Store](https://img.shields.io/badge/Indus%20Appstore-FF6B00?style=flat-square&logo=android&logoColor=white)](https://indusapp.store/g7m6hddn)
+[![Live](https://img.shields.io/badge/Live-00D9FF?style=flat-square&logo=vercel&logoColor=black)](https://premium-financial-calculator.vercel.app/)
+[![Indus Store](https://img.shields.io/badge/Indus%20Appstore-FF6B00?style=flat-square&logo=android&logoColor=white)](https://indusapp.store/g7m6hddn)(https://img.shields.io/badge/Live-00D9FF?style=flat-square&logo=vercel&logoColor=black)(https://premium-financial-calculator.vercel.app/)
 
 </td>
 <td width="50%">
